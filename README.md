@@ -1,2 +1,2 @@
 # qBittorrent-master
-qbittorrent with approximately
+qbittorrent with approximately 80 plug-ins
